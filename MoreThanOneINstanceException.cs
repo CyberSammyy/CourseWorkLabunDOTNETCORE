@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CourseWorkLabunDOTNETCORE
+namespace BLL_DOTNETCORE
 {
     class MoreThanOneINstanceException : Exception
     {
