@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DAL_DOTNETCORE.Migrations.InitialCreate">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20210610001927_InitialCreate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL_DOTNETCORE.Migrations.PaymentsManagerDBContextModelSnapshot">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Migrations\PaymentsManagerDBContextModelSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL_DOTNETCORE.Models.PathToDbCreator">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PaymentsManagerDBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL_DOTNETCORE.Models.PaymentsManagerDBContext">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAAAQAAAAAAAAACAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PaymentsManagerDBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL_DOTNETCORE.DataBaseInteractionsNONStatic">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBaseInteractions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL_DOTNETCORE.DataBaseInteractions">
+    <Position X="15" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAUAAIAhECEAAAgJJCAAAAAAACAIAQggEAAAAAAAQAg=</HashCode>
+      <FileName>DataBaseInteractions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL_DOTNETCORE.MoreThanOneInstanceDALException">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MoreThanOneInstanceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL_DOTNETCORE.Transaction">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAACwQ=</HashCode>
+      <FileName>Transaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL_DOTNETCORE.User">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAABAIAAkAAAACAAAAEAAAAACAAAACAAAggA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL_DOTNETCORE.Wallet">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAEAAABgIAAAgAAACAAAAAAAAQAAgA=</HashCode>
+      <FileName>Wallet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.EntityFrameworkCore.Migrations.Migration">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshot">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Exception">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Microsoft.EntityFrameworkCore.DbContext">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

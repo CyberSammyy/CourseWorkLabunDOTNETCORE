@@ -1,0 +1,13 @@
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\bin\Release\netcoreapp3.1\Payments.mdf
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\bin\Release\netcoreapp3.1\Payments_log.ldf
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\bin\Release\netcoreapp3.1\DAL_DOTNETCORE.deps.json
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\bin\Release\netcoreapp3.1\DAL_DOTNETCORE.runtimeconfig.json
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\bin\Release\netcoreapp3.1\DAL_DOTNETCORE.runtimeconfig.dev.json
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\bin\Release\netcoreapp3.1\DAL_DOTNETCORE.dll
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\bin\Release\netcoreapp3.1\DAL_DOTNETCORE.pdb
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\obj\Release\netcoreapp3.1\DAL_DOTNETCORE.AssemblyInfoInputs.cache
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\obj\Release\netcoreapp3.1\DAL_DOTNETCORE.AssemblyInfo.cs
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\obj\Release\netcoreapp3.1\DAL_DOTNETCORE.csproj.CoreCompileInputs.cache
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\obj\Release\netcoreapp3.1\DAL_DOTNETCORE.dll
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\obj\Release\netcoreapp3.1\DAL_DOTNETCORE.pdb
+C:\Users\kaila\source\repos\DAL_DOTNETCORE\obj\Release\netcoreapp3.1\DAL_DOTNETCORE.genruntimeconfig.cache
