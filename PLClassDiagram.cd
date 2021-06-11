@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseWorkLabunDOTNETCORE.App">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.Authorization" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Window" FixedToPoint="true">
+      <Path>
+        <Point X="15.594" Y="0.5" />
+        <Point X="15.594" Y="0.125" />
+        <Point X="9" Y="0.125" />
+        <Point X="9" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAEBAABAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Authorization.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.Blurer">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAACgCAAAYAEAADQgQCAIAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Blurer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.Categories">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAACQAAAAAAAAAAgCQAQAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.Category" BaseTypeListCollapsed="true">
+    <Position X="17" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAAAQAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.CategoryManager" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Window" FixedToPoint="true">
+      <Path>
+        <Point X="16" Y="0.5" />
+        <Point X="16" Y="0.125" />
+        <Point X="7.312" Y="0.125" />
+        <Point X="7.312" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QABgAAAAAEBAAAAAAAAQAAAAAAAAAAAAQAAIAAJAAQA=</HashCode>
+      <FileName>CategoryManager.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.ChangeUserData" BaseTypeListCollapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Window" FixedToPoint="true">
+      <Path>
+        <Point X="16.508" Y="0.5" />
+        <Point X="16.508" Y="0.125" />
+        <Point X="10.688" Y="0.125" />
+        <Point X="10.688" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BAACQAAAAEAAAAAAAAAAAAAIAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>ChangeUserData.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.HistoryViewer" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIQgAAAQAEAAAAAAAgAAAAAAIAAAAAgABgAMAAAIAAA=</HashCode>
+      <FileName>HistoryViewer.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.HistoryViewerContent">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAABAAgAAAAIAAAAAAABAAAQAAAAAIAAgA=</HashCode>
+      <FileName>HistoryViewerContent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.MainPage" BaseTypeListCollapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Window" FixedToPoint="true">
+      <Path>
+        <Point X="15.391" Y="0.5" />
+        <Point X="15.391" Y="0.125" />
+        <Point X="3.75" Y="0.125" />
+        <Point X="3.75" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAgYAAQAEAAAAAAAAAAAAAgAgAAgAMQAACEAAAAFAA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Window" FixedToPoint="true">
+      <Path>
+        <Point X="15.797" Y="0.5" />
+        <Point X="15.797" Y="0.125" />
+        <Point X="12.438" Y="0.125" />
+        <Point X="12.438" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAAQABAAAAAAAAAAAAAAAAAgAEAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.MoreThanOneINstanceException">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MoreThanOneINstanceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWorkLabunDOTNETCORE.TransactionWindow" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Window" FixedToPoint="true">
+      <Path>
+        <Point X="16.203" Y="0.5" />
+        <Point X="16.203" Y="0.125" />
+        <Point X="5.5" Y="0.125" />
+        <Point X="5.5" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAEAAAAAAAAAAQAAAAAAABAAAQAAIAAAAAAA=</HashCode>
+      <FileName>TransactionWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Window" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Application" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Threading.DispatcherObject">
+    <Position X="15.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Exception" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="CourseWorkLabunDOTNETCORE.Native.AccentPolicy">
+    <Position X="10" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAACAAAAAgAAA=</HashCode>
+      <FileName>Blurer.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CourseWorkLabunDOTNETCORE.Native.WindowCompositionAttributeData">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Blurer.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="CourseWorkLabunDOTNETCORE.Native.AccentState">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAQAAAAAAAAAAAgAAAAAAAAAAAIAAAAAAAI=</HashCode>
+      <FileName>Blurer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CourseWorkLabunDOTNETCORE.Native.WindowCompositionAttribute">
+    <Position X="6.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Blurer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

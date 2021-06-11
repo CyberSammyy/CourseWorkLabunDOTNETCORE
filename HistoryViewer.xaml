@@ -1,0 +1,34 @@
+﻿<Window x:Class="CourseWorkLabunDOTNETCORE.HistoryViewer"
+        AllowsTransparency="True"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWorkLabunDOTNETCORE"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="User account" Height="589" Width="1355" WindowStyle="None" ResizeMode="NoResize" BorderThickness="3,3,3,3" Background="#4CFFFFFF" BorderBrush="#B2000000">
+    <Grid Background="#07FFFFFF">
+        <StackPanel Grid.ColumnSpan="2">
+            <Border MinWidth="215" MaxWidth="300" Margin="0,30,1110,10" Background="#7FFFFFFF" Padding="30" CornerRadius="20" Width="110" Height="531" HorizontalAlignment="Right">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="30" Color="LightGray" ShadowDepth="0"/>
+                </Border.Effect>
+                <StackPanel x:Name="stackPan_1" Margin="-20,-20,-20,0" Height="509" VerticalAlignment="Top">
+                    <Button x:Name="viewHistory" Margin="10,10,0,10" Click="viewHistory_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Width="175" Content="View history"/>
+                    <CheckBox x:Name="onlyYourWallet" Content="Show only for your wallet" Unchecked="onlyYourWallet_Unchecked" Checked="onlyYourWallet_Checked" Height="20" Width="166" />
+                    <ComboBox x:Name="searchCriteria" materialDesign:HintAssist.Hint="Choose search criteria" Width="147"/>
+                    <TextBox x:Name="sumSearch" PreviewTextInput="sumSearch_PreviewTextInput" Text="" Height="32" TextWrapping="Wrap" materialDesign:HintAssist.Hint="Input sum for searching" Margin="10,10,10,10"/>
+                    <DatePicker x:Name="dateFrom" Margin="10,10,10,10" materialDesign:HintAssist.Hint="Choose date from"/>
+                    <DatePicker x:Name="dateTo" Margin="10,10,10,10" materialDesign:HintAssist.Hint="Choose date to"/>
+                    <Button x:Name="filterByDate" Content="Filter" Click="filterByDate_Click" Margin="10,10,0,10" HorizontalAlignment="Left" VerticalAlignment="Top" Width="175"/>
+                    <Button x:Name="search" Content="Search" Click="search_Click" Margin="10,10,0,10" HorizontalAlignment="Left" VerticalAlignment="Top" Width="175"/>
+                    <Button x:Name="exitCloseButton_Copy" Content="Close All" Margin="10,10,10,0" Click="exitCloseButton_Click"/>
+                    <Button x:Name="backToUserWindow" Content="To user window" Click="backToUserWindow_Click" d:LayoutOverrides="Height" Margin="10,20,10,0"/>
+                    <Button x:Name="logout" Content="Log out" Click="logout_Click" HorizontalAlignment="Left" Margin="10,20,0,0" Width="175"/>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+        <ListView x:Name="listOfHistories" Margin="281,36,25,34" FontWeight="Bold" FontSize="15"/>
+    </Grid>
+</Window>
